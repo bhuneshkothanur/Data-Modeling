@@ -63,6 +63,3 @@ The json contains details regarding the users such as firstname, lastname, gende
    3. Run test.ipynb to confirm the records were successfully inserted into each table.
 
 
-**REFERENCES**
-
-> Udacity Knowledge hub.
